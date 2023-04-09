@@ -1,0 +1,5 @@
+Hardhat
+Using your choice of hardhat, foundry or truffle
+1. Create a project for your Badger coin
+2. Write unit tests for your Badger coin contract
+The tests should show that
